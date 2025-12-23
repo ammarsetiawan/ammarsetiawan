@@ -31,8 +31,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-
+### 📊 frequently used language:
+-
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&layout=compact&theme=dark&hide_border=true" />
 </p>
