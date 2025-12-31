@@ -54,9 +54,7 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 
 ### 🏆 Pencapaian:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ammarsetiawan&theme=tokyonight&no-bg=true&column=4" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarsetiawan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 
