@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Ammar Setiawan!
+# 😎 Halo, Saya Ammar Setiawan!
 
 Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, seperti Sistem Pakar, dan terus mengeksplorasi dunia Front-End serta UI/UX Design.
 
