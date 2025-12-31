@@ -1,21 +1,19 @@
 # 👋 Halo, Saya Ammar Setiawan!
 
-Seorang pengembang web yang tertarik pada solusi teknologi cerdas, seperti Sistem Pakar, dan terus mengeksplorasi dunia Front-End serta UI/UX Design.
+Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, seperti Sistem Pakar, dan terus mengeksplorasi dunia Front-End serta UI/UX Design.
 
 ---
 
 ### 🌐 Hubungi Saya:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/628xxxxxxxxxx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6282113051867)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ammarsetiawannn_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarsetiawan@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ammarsetiawan)
 
 ---
 
 ### 💻 Tech Stack & Tools:
 
 **Programming & Frameworks**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +48,7 @@ Seorang pengembang web yang tertarik pada solusi teknologi cerdas, seperti Siste
 
 ### 📂 Proyek Unggulan:
 - 🌱 **Sistem Pakar Diagnosa Penyakit Padi**: Implementasi web untuk membantu petani mengidentifikasi penyakit tanaman secara dini.
-- 💻 **E-Commerce & Landing Pages**: Berbagai eksperimen tampilan web menggunakan Bootstrap dan Native PHP.
+
 
 ---
 <p align="center">
