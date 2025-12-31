@@ -58,7 +58,7 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 </p>
 
 
-<p align="center">
+<p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
 
