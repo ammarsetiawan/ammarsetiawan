@@ -57,7 +57,7 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
   <img src="https://github-profile-trophy.vercel.app/?username=ammarsetiawan&theme=tokyonight&no-bg=true&column=4" />
 </p>
 
----
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
