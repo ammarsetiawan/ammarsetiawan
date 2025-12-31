@@ -31,6 +31,8 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
