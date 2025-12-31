@@ -32,10 +32,10 @@
 
 ---
 
-### 📊 frequently used language:
+### 📊 community to follow
 
 <p align="center">
-  <img width="20%"  src="https://assets.cdn.dicoding.com/original/commons/certificate_logo.png" />
+  <img width="20%" display='grid'  src="https://assets.cdn.dicoding.com/original/commons/certificate_logo.png" />
 </p>
 
 ---
