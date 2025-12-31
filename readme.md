@@ -58,6 +58,11 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
+
+---
 
 ### 📂 Proyek Unggulan:
 - 🌱 **Sistem Pakar Diagnosa Penyakit Padi**: Implementasi web untuk membantu petani mengidentifikasi penyakit tanaman secara dini.
