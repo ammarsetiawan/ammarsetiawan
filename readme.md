@@ -65,7 +65,8 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 ---
 
 ### 📂 Proyek Unggulan:
-- 🌱 **Sistem Pakar Diagnosa Penyakit Padi**: Implementasi web untuk membantu petani mengidentifikasi penyakit tanaman secara dini.
+- 🌦 **website cuaca real time**:website ini bertujuan untuk membantu banyak orang untuk melihat dan mengetahui cuaca,suhu,dan kelembaban
+   pada suatu daerah secara realtime
 
 
 ---
