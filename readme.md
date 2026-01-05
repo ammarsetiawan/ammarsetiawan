@@ -65,7 +65,7 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 ---
 
 ### 📂 Proyek Unggulan:
-- 🌦 **website cuaca real time**:website ini bertujuan untuk membantu banyak orang untuk melihat dan mengetahui cuaca,suhu,dan kelembaban
+- 🌦 **website cuaca real time** : website ini bertujuan untuk membantu banyak orang untuk melihat dan mengetahui cuaca,suhu,dan kelembaban
    pada suatu daerah secara realtime
 
 
