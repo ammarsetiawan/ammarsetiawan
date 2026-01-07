@@ -39,17 +39,6 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 
 ---
 
-### 📊 Statistik GitHub:
-
-<p align="center">
- 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarsetiawan&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
-
 
 
 ### 📂 Proyek & Portofolio
