@@ -49,14 +49,8 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 
 ---
 
-### 🏆 Pencapaian:
 
 
-<p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100&height=100&section=footer" />
-</p>
-
----
 
 ### 📂 Proyek & Portofolio
 Beberapa proyek yang pernah saya bangun:
