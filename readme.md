@@ -53,9 +53,6 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 ---
 
 ### 🏆 Pencapaian:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarsetiawan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-</p>
 
 
 <p align="center" width="100%">
