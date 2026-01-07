@@ -57,9 +57,10 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 ### 📂 Proyek & Portofolio
 Beberapa proyek yang pernah saya bangun:
 
-🧪 Pokemon List Website – website interaktif yang menampilkan daftar Pokémon lengkap dengan tipe dan info menggunakan React & Node.js.
+🧪 Pokemon List Website – website interaktif yang menampilkan daftar Pokémon lengkap dengan tipe dan info menggunakan React & Node.js.[link](https://pokemon-green-delta.vercel.app/)
 
-🌦 Weather Website – aplikasi cuaca real-time dengan tampilan ramah pengguna yang menampilkan data suhu dan kelembapan dari API cuaca publik.
+
+🌦 Weather Website – aplikasi cuaca real-time dengan tampilan ramah pengguna yang menampilkan data suhu dan kelembapan dari API cuaca publik.[link](https://web-weather-sandy.vercel.app/)
 
 🖥️ Portfolio Website – showcase pribadi yang responsive dan modern yang menunjukkan karya-karya saya dalam satu tempat. [link](https://ammarsetiawan-6q4jrvy0l-ammarsetiawan970-4988s-projects.vercel.app/)
 
