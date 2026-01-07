@@ -60,7 +60,7 @@ Beberapa proyek yang pernah saya bangun:
 
 🧪 Pokemon List Website – website interaktif yang menampilkan daftar Pokémon lengkap dengan tipe dan info menggunakan React & Node.js.
 
-☁️ Weather Website – aplikasi cuaca real-time dengan tampilan ramah pengguna yang menampilkan data suhu dan kelembapan dari API cuaca publik.
+🌦 Weather Website – aplikasi cuaca real-time dengan tampilan ramah pengguna yang menampilkan data suhu dan kelembapan dari API cuaca publik.
 
 🖥️ Portfolio Website – showcase pribadi yang responsive dan modern yang menunjukkan karya-karya saya dalam satu tempat. [link](https://ammarsetiawan-6q4jrvy0l-ammarsetiawan970-4988s-projects.vercel.app/)
 
