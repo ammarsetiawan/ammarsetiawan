@@ -11,7 +11,7 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 
 ---
 
-### 💻 Tech Stack & Tools:
+## 💻 Tech Stack & Tools:
 
 **Programming & Frameworks**
 -
