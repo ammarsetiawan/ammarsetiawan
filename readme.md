@@ -41,11 +41,11 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 
 ### 📊 Statistik GitHub:
 
-
-
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsetiawan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ammarsetiawan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarsetiawan&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
