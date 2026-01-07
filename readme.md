@@ -64,10 +64,14 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 
 ---
 
-### 📂 Proyek Unggulan:
-- 🌦 **website cuaca real time** : website ini bertujuan untuk membantu banyak orang untuk melihat dan mengetahui cuaca,suhu,dan kelembaban
-   pada suatu daerah secara realtime
+### 📂 Proyek & Portofolio
+Beberapa proyek yang pernah saya bangun:
 
+🧪 Pokemon List Website – website interaktif yang menampilkan daftar Pokémon lengkap dengan tipe dan info menggunakan React & Node.js.
+
+☁️ Weather Website – aplikasi cuaca real-time dengan tampilan ramah pengguna yang menampilkan data suhu dan kelembapan dari API cuaca publik.
+
+🖥️ Portfolio Website – showcase pribadi yang responsive dan modern yang menunjukkan karya-karya saya dalam satu tempat.
 
 ---
 <p align="center">
