@@ -70,7 +70,7 @@ Beberapa proyek yang pernah saya bangun:
 
 🌦 Weather Website – aplikasi cuaca real-time dengan tampilan ramah pengguna yang menampilkan data suhu dan kelembapan dari API cuaca publik.[link](https://web-weather-sandy.vercel.app/)
 
-🖥️ Portfolio Website – showcase pribadi yang responsive dan modern yang menunjukkan karya-karya saya dalam satu tempat. [link](https://ammarsetiawan-6q4jrvy0l-ammarsetiawan970-4988s-projects.vercel.app/)
+🖥️ Portfolio Website – showcase pribadi yang responsive dan modern yang menunjukkan karya-karya saya dalam satu tempat. [link](https://ammarsetiawan.vercel.app/)
 
 ---
 <p align="center">
